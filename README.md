@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @LKyou007
-- 👀 I’m interested in database
-- 🌱 I’m currently learning C programming language
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 19140446892
 
 <!---
